@@ -1,7 +1,7 @@
 # DESIGNER-Portifolio-01
 
 ### Proposta : 
-* Template simples para um portifolio.
+* Template pronto para um portifolio.
 
 ### Tecnologias : 
 + HTML
